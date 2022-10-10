@@ -221,14 +221,14 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    let eiA;
-    let eiB;
-    let snA;
-    let snB;
-    let tfA;
-    let tfB;
-    let jpA;
-    let jpB;
+    let eiA = 0;
+    let eiB = 0;
+    let snA = 0;
+    let snB = 0;
+    let tfA = 0;
+    let tfB = 0;
+    let jpA = 0;
+    let jpB = 0;
 
     answers.map((answer) => {
       switch(answer.type) {
@@ -290,6 +290,7 @@ function App() {
     } else {
       result += "P";
     }
+    console.log(result)
 
     switch(result) {
       case "ENFJ":
