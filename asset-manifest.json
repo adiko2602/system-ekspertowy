@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/system-ekspertowy/static/css/main.2518b6d1.css",
+    "main.js": "/system-ekspertowy/static/js/main.c943770c.js",
+    "index.html": "/system-ekspertowy/index.html",
+    "main.2518b6d1.css.map": "/system-ekspertowy/static/css/main.2518b6d1.css.map",
+    "main.c943770c.js.map": "/system-ekspertowy/static/js/main.c943770c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2518b6d1.css",
+    "static/js/main.c943770c.js"
+  ]
+}
