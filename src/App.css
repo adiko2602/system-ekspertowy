@@ -2,7 +2,7 @@
   width: 100vw;
   min-height: 100vh;
   background: #1212ae;
-  background: linear-gradient(90deg, #1212ae 35%, #ff7ecb 100%); 
+  background: linear-gradient(90deg, #31318f 35%, #833564 100%); 
 }
 
 .container {
@@ -34,7 +34,7 @@
   display: flex;
   flex-direction: column;
   background-color: #f0f0f0;
-  width: 60vw;
+  width: 80vw;
   padding: 20px;
   margin: 20px 0;
   border-radius: 1.5rem;
@@ -63,4 +63,14 @@
 
 .button:hover {
   cursor: pointer;
+}
+
+a {
+  font-weight: 700;
+  cursor: pointer;
+  color: #31318f;
+}
+
+a:hover {
+  color: #833564;
 }
