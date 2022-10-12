@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/system-ekspertowy/static/css/main.2518b6d1.css",
-    "main.js": "/system-ekspertowy/static/js/main.f7f97781.js",
+    "main.css": "/system-ekspertowy/static/css/main.9633b354.css",
+    "main.js": "/system-ekspertowy/static/js/main.54f5ab2a.js",
     "index.html": "/system-ekspertowy/index.html",
-    "main.2518b6d1.css.map": "/system-ekspertowy/static/css/main.2518b6d1.css.map",
-    "main.f7f97781.js.map": "/system-ekspertowy/static/js/main.f7f97781.js.map"
+    "main.9633b354.css.map": "/system-ekspertowy/static/css/main.9633b354.css.map",
+    "main.54f5ab2a.js.map": "/system-ekspertowy/static/js/main.54f5ab2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2518b6d1.css",
-    "static/js/main.f7f97781.js"
+    "static/css/main.9633b354.css",
+    "static/js/main.54f5ab2a.js"
   ]
 }
